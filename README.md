@@ -10,13 +10,14 @@ Streaming information, device setup guides and entertainment resources.
 
 Visit our website for current service information, plans and support.
 
-## Useful Guides
+## Guides & Resources
 
 - [Understanding IPTV](https://drxalan32.github.io/M3U-Playlist-Guide/guides/iptv-explained.html)
 - [IPTV Device Compatibility](https://drxalan32.github.io/M3U-Playlist-Guide/guides/iptv-devices-guide.html)
 - [IPTV Setup Guide](https://drxalan32.github.io/M3U-Playlist-Guide/guides/iptv-setup-guide.html)
 - [Internet Requirements](https://drxalan32.github.io/M3U-Playlist-Guide/guides/iptv-internet-requirements.html)
 - [Buffering Troubleshooting](https://drxalan32.github.io/M3U-Playlist-Guide/guides/iptv-buffering-fixes.html)
+- [M3U Playlist Inspector](https://drxalan32.github.io/m3u-playlist-inspector/) — browser-based playlist tools and a local-file validator.
 
 ## Before Subscribing
 
